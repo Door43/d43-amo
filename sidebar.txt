@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[amo:home|Door43 (amo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-amo|d43-amo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-amo/archive/master.zip|d43-amo.zip]]
+
+**Recent Changes**
+{{changes>ns = amo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/amo|Ethnologue data]]
+
